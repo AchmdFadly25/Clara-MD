@@ -6,22 +6,22 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6281322088702', 'Adoyyy', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
+global.nomorwa = '6281322088702'
+global.packname = 'Koyyy - MD by'
+global.author = '© Adoyyy'
+global.namebot = '​Koyyy - MD'
+global.wm = '© anu By Adoyyy'
+global.stickpack = 'Koyyy - MD by'
+global.stickauth = '© Adoyyy'
 global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
-global.sgh = 'https://github.com/Xyroinee'
+global.sig = 'https://www.instagram.com/ad0yyy_'
+global.sgh = 'https://github.com/AchmdFadly25'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
 global.psaweria = 'https://saweria.co/Zeltoria'
@@ -32,9 +32,9 @@ global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.lol = 'apikeymu'
-global.rose = 'apikeymu'
-global.xyro = 'apikeymu'
+global.lol = 'uw8iyCyaga'
+global.rose = 'uw8iyCyaga'
+global.xyro = 'uw8iyCyaga'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -48,7 +48,7 @@ global.APIs = {
 
 /Apikey/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "apikeymu",
+    "https://api.xyroinee.xyz": "uw8iyCyaga",
 }
 
 let file = fileURLToPath(import.meta.url)
